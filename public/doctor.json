@@ -1,0 +1,88 @@
+[
+    {
+      "key": 1,
+      "img": "https://wedev0.netlify.app/img-10/img%20(9).jpg",
+      "name": "Dr Sivamalar",
+      "desc": "Pathology-Anatomic/Pathology-Clinical, Cytopathology, Pathology ",
+      "Clinical Area":"Pathology Services" ,
+      "rating": 5,
+      "ratingCount": "320"
+    },
+
+
+    {
+      "key": 2,
+      "img": "https://wedev0.netlify.app/img-10/img%20(10).jpg",
+      "name": "Dr Sivamalar",
+      "desc": "Gastroenterology is the branch of medicine focused on the digestive system and its disorders.  ",
+      "Clinical Area":"Gastroenterology Services" ,
+      "rating": 5,
+      "ratingCount": "320"
+    }
+    ,
+
+    {
+      "key": 3,
+      "img": "htSaju Abraham",
+      "desc": "Neurologists are specialists who treat diseases of the brain and spinal cord, peripheral nerves and muscles.  ",
+      "Clinical Area":"Neurology Services" ,
+      "rating": 5,
+      "ratingCount": "320"
+    },
+
+    {
+      "key": 4,
+      "img": "https://wedev0.netlify.app/img-10/img%20(11).jpg",
+      "name": "Richard Abrams",
+      "desc": "Pathology-Anatomic/Pathology-Clinical, Cytopathology, Pathology ",
+      "Clinical Area":" Hospital Medicine; Primary Care" ,
+      "rating": 5,
+      "ratingCount": "320"
+    },
+
+
+    {
+      "key": 5,
+      "img": "https://wedev0.netlify.app/img-10/img%20(3).jpg",
+      "name": "Sol Abreu-Sosa",
+      "desc": "The three main types of rehabilitation therapy are occupational, physical and speech ",
+      "Clinical Area":"Physical Rehabilitation Services" ,
+      "rating": 5,
+      "ratingCount": "320"
+    },
+
+
+    {
+      "key": 6,
+      "img": "https://wedev0.netlify.app/img-10/img%20(7).jpg",
+      "name": "Nadia Abu-Nijmeh",
+      "desc": "he branch of medicine that focuses on helping children, including the conditions or diseases they might have. General Medicine is a specialty that focuses on adult care.",
+      "Clinical Area":"Pediatrics (General Medicine) " ,
+      "rating": 5,
+      "ratingCount": "320"
+    },
+
+
+    {
+      "key": 7,
+      "img": "https://wedev0.netlify.app/img-10/img%20(6).jpg",
+      "name": "Kurian Abraham, MD",
+      "desc": "Pathology-Anatomic/Pathology-Clinical, Cytopathology, Pathology ",
+      "Clinical Area":"Pathology Services" ,
+      "rating": 5,
+      "ratingCount": "320"
+    },
+
+
+
+    {
+      "key": 8,
+      "img": "https://wedev0.netlify.app/img-10/img%20(2).jpg",
+      "name": "Kurian Abraham, MD",
+      "desc": "Pathology-Anatomic/Pathology-Clinical, Cytopathology, Pathology ",
+      "Clinical Area":"Pathology Services" ,
+      "rating": 5,
+      "ratingCount": "320"
+    }
+
+  ]

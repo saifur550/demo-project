@@ -1,0 +1,89 @@
+[
+    {
+      "key": 1001,
+      "img": "https://wedev0.netlify.app/img-10png/1.jpg",
+      "title": "Cancer (Oncology)",
+      "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. ",
+      "specialist": "Kurian Abraham",
+      "hospital": "Pantai Hospital Kuala Lumpur",
+      "rating": 5
+      
+    },
+    {
+      "key": 1002,
+      "img": "https://wedev0.netlify.app/img-10png/2.jpg",
+      "title": "Cardiology",
+      "desc": "Cardiology is a specialty that deals with disorders of the heart including coronary artery disease, valvular heart disease, heart failure. " ,
+      "specialist": "Dr  Shunmugam",
+      "hospital": "Pantai Hospital Kuala Lumpur"
+      
+    },
+
+    {
+      "key": 1003,
+      "img": "https://wedev0.netlify.app/img-10png/3.jpg",
+      "title": "Ear, Nose & Throat (ENT)",
+      "desc": "ENT doctors specialise in the diagnosis and treatment of diseases of the ears, nose (including sinus) and throat (including voice and speech) . " ,
+      "specialist": "Dr  Manoharan.",
+      "hospital": "Pantai Hospital Kuala Lumpur"
+      
+    },
+    {
+      "key": 1004,
+      "img": "https://wedev0.netlify.app/img-10png/4.jpg",
+      "title": "Endocrinology",
+      "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. " ,
+      "specialist": " John Mathen",
+      "hospital": "Pantai Hospital Kuala Lumpur"
+      
+    },
+    {
+      "key": 1005,
+      "img": "https://wedev0.netlify.app/img-10png/5.jpg",
+      "title": "Gastroenterology",
+      "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. " ,
+      "specialist": "Peng Choong",
+      "hospital": "Pantai Hospital Kuala Lumpur"
+      
+    },
+
+    {
+      "key": 1006,
+      "img": "https://wedev0.netlify.app/img-10png/6.jpg",
+      "title": "General Surgery",
+      "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. " ,
+      "specialist": " Ashim Kumar",
+      "hospital": "Pantai Hospital Kuala Lumpur"
+      
+    },
+    
+    {
+      "key": 1007,
+      "img": "https://wedev0.netlify.app/img-10png/7.jpg",
+      "title": "Cancer (Oncology)",
+      "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. " ,
+      "specialist": "Dr Abdul Fahmi",
+      "hospital": "Pantai Hospital Kuala Lumpur"
+      
+    },
+
+    {
+      "key": 1008,
+      "img": "https://wedev0.netlify.app/img-10png/8.jpg",
+      "title": "Neurology and Neurosurgery",
+      "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. " ,
+      "specialist": "Veera Ramani",
+      "hospital": "Pantai Hospital Kuala Lumpur"
+      
+    },
+
+    {
+      "key": 1009,
+      "img": "https://wedev0.netlify.app/img-10png/9.jpg",
+      "title": "Obstetrics and Gynaecology",
+      "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. " ,
+      "specialist": "Dr Hoh Hon",
+      "hospital": "Pantai Hospital Kuala Lumpur"
+      
+    }
+]
